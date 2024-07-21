@@ -64,3 +64,7 @@ This project is licensed under the GPLv3 license.
 - Kevin B. Burns (mailto:kevin.b.burns@gmail.com)
 - (https://github.com/kevinbburns)
 
+## Todo
+- Add an option to disable to disable 'click away' to keep the widget open
+- Add an option to change the default zoom level on the Grammarly Editor
+

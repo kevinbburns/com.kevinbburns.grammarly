@@ -35,6 +35,7 @@ curl -L -o com.kevinbburns.grammarly.zip https://github.com/kevinbburns/com.kevi
 2. Choose `Add Widgets`.
 3. Search for `Grammarly`.
 4. Drag and drop it to your desired location.
+5. Click on the widget panel icon, log into your Grammarly.com account.
 
 ## Configuration
 

@@ -5,11 +5,14 @@
       http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
   <kcfgfile name=""/>
   <group name="General">
-    <entry name="url" type="String">
+    <entry name="grammarlyUrl" type="String">
         <default>https://app.grammarly.com/?</default>
     </entry>
-    <entry name="constantZoomFactor" type="Int">
-      <default>110</default>
+   <entry name="hideHeader" type="Bool">
+      <default>false</default>
+    </entry>
+   <entry name="hideKeepOpen" type="Bool">
+      <default>false</default>
     </entry>
   </group>
 </kcfg>

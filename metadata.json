@@ -9,10 +9,13 @@
         ],
         "Category": "Online Services",
         "Description": "Grammarly Launcher",
+        "Icon": "applications-internet",
         "Id": "com.kevinbburns.grammarly",
+        "License": "GPL-2.0+",
         "Name": "Grammarly Launcher",
-        "Website": "",
-        "Version": "0.0.1"
+        "Version":2,
+        "Website": "https://github.com/kevinbburns/com.kevinbburns.grammarly"
     },
-    "X-Plasma-API-Minimum-Version": "6.0"
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-API": "declarativeappletscript"
 }
